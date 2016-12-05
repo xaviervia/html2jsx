@@ -1,6 +1,6 @@
 # html2jsx
 
-[Try it live](https://xaviervia.github.io/html2jsx)
+[Try it live](https://xaviervia.github.io/html2jsx/)
 
 > See also [html2react-json](https://github.com/xaviervia/html2react-json)
 
