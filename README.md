@@ -16,3 +16,7 @@ const html = `<h1 class="hello">Hello JSX</h1>`
 
 console.log(html2jsx(html, {name: 'Example'}))
 ```
+
+## License
+
+[The Unlicense](LICENSE)
